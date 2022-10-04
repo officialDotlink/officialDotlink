@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on development and solutions that we could provide together.
 - 📫 How to reach me?
 Follow the link below for web access.
-https://official.link
+https://official.link/pages/contact
 
 <!---
 officialDotlink/officialDotlink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
